@@ -59,9 +59,24 @@ Each level provides:
 
 ---
 
+
 ## Dashboard examples
 
-![Dashboard](images/dashboard.png)
+### Main dashboard (global view)
+
+![Main dashboard](dashboard-live-main.png)
+
+---
+
+### Regional view
+
+![Regional dashboard](dashboard-live-regional.png)
+
+---
+
+### KPI / reallocation logic example
+
+![Reallocation dashboard](dashboard-maquette-realloue.png)
 
 ---
 
