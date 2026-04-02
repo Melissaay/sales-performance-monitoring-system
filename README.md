@@ -57,6 +57,8 @@ Each level provides:
 - adapted granularity
 - clear performance tracking vs budget and previous year
 
+  ![Dashboard structure](images/dashboard-structure.png)
+
 ---
 
 
